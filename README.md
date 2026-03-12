@@ -41,8 +41,7 @@ class NohaNourEldean:
     def get_stack(self):
         return {
             "languages"   : ["Python", "SQL"],
-            "databases"   : ["MongoDB", "MySQL", "PostgreSQL"],
-            "warehousing" : ["Data Warehouse Design", "ETL Pipelines", "Star Schema"],
+            "warehousing" : ["Data Warehouse Design", "ETL Pipelines", "Star Schema", "snowflake schema"],
             "analytics"   : ["Power BI", "Excel"],
             "tools"       : ["Docker", "Linux"],
         }
