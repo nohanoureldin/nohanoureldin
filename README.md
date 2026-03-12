@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Noha%20Nour-Eldean&fontSize=50&fontAlignY=38&desc=Data%20Engineer%20%7C%20Pipeline%20Builder%20%7C%20Cairo%2C%20Egypt%20%7C%20Open%20to%20Remote&descAlignY=58&descSize=16&animation=fadeIn&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Noha%20Nour-Eldean&fontSize=50&fontAlignY=38&desc=Data%20Engineer%20%7C%20Pipeline%20Builder%20%7C%20Cairo%2C%20Egypt&descAlignY=58&descSize=16&animation=fadeIn&fontColor=ffffff" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A67C52&center=true&vCenter=true&width=600&lines=Data+Engineer+in+Training;Pipeline+Builder;ETL+%7C+Data+Warehouse+%7C+Analytics;BSc+Business+%26+Finance+%E2%86%92+Data+Engineering" alt="Typing SVG" />
 
