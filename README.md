@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Noha%20Nour-Eldean&fontSize=50&fontAlignY=38&desc=Data%20Engineer%20%7C%20Pipeline%20Builder&descAlignY=58&descSize=20&animation=fadeIn&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Noha%20Nour-Eldean&fontSize=50&fontAlignY=38&desc=Data%20Engineer%20%7C%20Pipeline%20Builder%20%7C%20Cairo%2C%20Egypt%20%7C%20Open%20to%20Remote&descAlignY=58&descSize=16&animation=fadeIn&fontColor=ffffff" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A67C52&center=true&vCenter=true&width=600&lines=Data+Engineer+in+Training;Pipeline+Builder;ETL+%7C+Data+Warehouse+%7C+Analytics;BSc+Business+%26+Finance+%E2%86%92+Data+Engineering" alt="Typing SVG" />
 
@@ -13,7 +13,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -27,7 +26,7 @@ My background in finance shaped how I approach data: with attention to accuracy,
 
 I am drawn to the full journey of data — from raw extraction through transformation, modeling, and delivery — and I take care at every step.
 
-**Open to:** Data Engineering internships and entry-level roles
+**Open to:** Data Engineering internships and entry-level roles — remote friendly
 
 ---
 
@@ -37,7 +36,7 @@ I am drawn to the full journey of data — from raw extraction through transform
 class NohaNourEldean:
     def __init__(self):
         self.education  = ["BSc Business & Finance", "ITI — Data Engineering Track"]
-        self.location   = "Cairo, Egypt"
+        self.location   = "Cairo, Egypt — Open to Remote"
 
     def get_stack(self):
         return {
@@ -45,7 +44,7 @@ class NohaNourEldean:
             "databases"   : ["MongoDB", "MySQL", "PostgreSQL"],
             "warehousing" : ["Data Warehouse Design", "ETL Pipelines", "Star Schema"],
             "analytics"   : ["Power BI", "Excel"],
-            "tools"       : ["Docker", "Linux", "Git"],
+            "tools"       : ["Docker", "Linux"],
         }
 ```
 
@@ -57,18 +56,6 @@ class NohaNourEldean:
 |---|---|
 | **Python Analytics Libraries** | End-to-end analysis pipeline on a 208-record user dataset — exploration, cleaning, and visualization using Pandas, Seaborn, and Matplotlib. |
 | **Data Warehouse and ETL** | Dimensional data warehouse built on star schema design. ETL pipelines handling extraction, transformation, and loading into structured analytical layers. |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nohanoureldin&show_icons=true&theme=nord&hide_border=true&title_color=A67C52&icon_color=A67C52" height="150"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nohanoureldin&layout=compact&theme=nord&hide_border=true&title_color=A67C52" height="150"/>
-
-</div>
 
 ---
 
