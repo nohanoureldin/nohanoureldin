@@ -50,15 +50,6 @@ class NohaNourEldean:
 
 ---
 
-## Projects
-
-| Project | Description |
-|---|---|
-| **Python Analytics Libraries** | End-to-end analysis pipeline on a 208-record user dataset — exploration, cleaning, and visualization using Pandas, Seaborn, and Matplotlib. |
-| **Data Warehouse and ETL** | Dimensional data warehouse built on star schema design. ETL pipelines handling extraction, transformation, and loading into structured analytical layers. |
-
----
-
 ## Get in Touch
 
 <div align="center">
