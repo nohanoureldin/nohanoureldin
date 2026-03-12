@@ -20,7 +20,7 @@
 
 ## About
 
-BSc in Business and Finance, currently completing the Data Engineering track at ITI — Cairo, Egypt.
+BSc in Business and Finance, currently completing the Data Engineering track at ITI — Zagazig, Egypt.
 
 My background in finance shaped how I approach data: with attention to accuracy, an understanding of what decisions depend on it, and a preference for work that is precise and well-considered.
 
