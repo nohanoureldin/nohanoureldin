@@ -1,9 +1,6 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Noha%20Nour-Eldean&fontSize=50&fontAlignY=38&desc=Data%20Engineer%20%7C%20Pipeline%20Builder%20%7C%20Cairo%2C%20Egypt&descAlignY=58&descSize=16&animation=fadeIn&fontColor=ffffff" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A67C52&center=true&vCenter=true&width=600&lines=Data+Engineer+in+Training;Pipeline+Builder;ETL+%7C+Data+Warehouse+%7C+Analytics;BSc+Business+%26+Finance+%E2%86%92+Data+Engineering" alt="Typing SVG" />
-
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -37,11 +34,10 @@ class NohaNourEldean:
     def __init__(self):
         self.education  = ["BSc Business & Finance", "ITI — Data Engineering Track"]
         self.location   = "Cairo, Egypt — Open to Remote"
-
     def get_stack(self):
         return {
             "languages"   : ["Python", "SQL"],
-            "warehousing" : ["Data Warehouse Design", "ETL Pipelines", "Star Schema", "snowflake schema"],
+            "warehousing" : ["Data Warehouse Design", "ETL Pipelines", "Star Schema", "Snowflake Schema"],
             "analytics"   : ["Power BI", "Excel"],
             "tools"       : ["Docker", "Linux"],
         }
@@ -49,10 +45,17 @@ class NohaNourEldean:
 
 ---
 
+## Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nohanoureldin&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide=stars,prs,issues&title_color=a67c52&icon_color=a67c52" />
+</div>
+
+---
+
 ## Get in Touch
 
 <div align="center">
-
 <a href="https://www.linkedin.com/in/noha-nour-eldean-66bbab277/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -64,11 +67,8 @@ class NohaNourEldean:
 <a href="https://github.com/nohanoureldin">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=nohanoureldin&label=Profile+views&color=a67c52&style=flat" />
-
+<br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn" />
-
 </div>
